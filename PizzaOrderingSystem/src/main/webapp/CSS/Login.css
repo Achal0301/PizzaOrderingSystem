@@ -1,0 +1,37 @@
+@charset "UTF-8";
+.btn{
+	border: 2px solid red;
+    height: 32px;
+    width: 91px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+	
+}
+.login{
+	border: 2px solid black;
+    height: 287px;
+    width: 275px;
+    margin: auto;
+    padding: 50px;
+    
+
+}
+
+.ip{
+	height: 25px;
+    width: 233px;
+    border-radius: 5px;
+}
+
+.reg{
+	border: 2px solid green;
+    height: 32px;
+    width: 91px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 7px;
+}
